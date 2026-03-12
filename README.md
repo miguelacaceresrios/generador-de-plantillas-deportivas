@@ -22,4 +22,3 @@ Este proyecto permite rellenar formularios con datos de deportistas y generar un
 3. Presiona **"Generar Vista Previa"**.  
 4. Visualiza la planilla en la sección derecha.  
 5. Haz clic en **"Imprimir Planilla"** para imprimir solo la vista previa.  
-
